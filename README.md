@@ -21,7 +21,6 @@ const res = await fetch("http://localhost:4000/orders");
 "server": "json-server --watch db.json --port 4000" ekleyip npm start server yapılmalı
 buradaki port no env içerisine kaç yazılmışsa o yazılmalı 
 
-
 - react-icons
 
 - react-toastify 
@@ -31,4 +30,7 @@ import { ToastContainer } from "react-toastify";
 
 - npm install chart.js
 - npm i react-chartjs-2
+  
 # Dashboard-with-NextJs
+![dashboard](https://github.com/user-attachments/assets/3b3a5d98-454b-48af-85d6-7ac006460f0e)
+
