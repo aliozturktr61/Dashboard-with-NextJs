@@ -1,4 +1,11 @@
-
+# Dashboard with NextJs
+- Bu projede admin dashboard panelini nextjs kullanarak oluşturmaya çalıştık.
+- Proje içerisinde grafik oluturma istatistik gibi uygulamalar geliştirmeye çalıştık.
+- Projede crud uygulamalarıda gerçekleştirdik.
+- Kullanıcı Bilgileri, kullanıcı silme
+- Satış Bilgileri, Grafik oluşturma
+- Ürün Oluşturma, düzenleme ve silme
+        İşlemlerini gerçekleştirdik.            
 
 #kütüphaneler
 - json-server
